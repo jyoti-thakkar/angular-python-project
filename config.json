@@ -1,0 +1,8 @@
+{
+  "params":
+  {
+    "local_uri": "postgres://postgres:Postgres@12345@localhost:5432/MyDatabase"
+
+  }
+
+}
